@@ -7,7 +7,7 @@ void me(void)
   printf("i'm a passionate tech enthusiast from germany. \n");
   char askMeAbout[] = "python, gnu/linux, networks";
   char interestedIn[] = "open source, automation, osint, virtualization"; 
-  char currentlyLearning[] = "c#, .net, cloudops";
+  char currentlyLearning[] = "c#, .net, rest";
 }
 ```
 
