@@ -27,11 +27,9 @@ void me(void)
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge" alt="Microsoft Azure Badge">
   <img src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=for-the-badge" alt="VMware Badge">
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge" alt="Apache Badge">
-  <img src="https://img.shields.io/badge/Apache%20Solr-D9411E?logo=apachesolr&logoColor=fff&style=for-the-badge" alt="Apache Solr Badge">
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge" alt="NGINX Badge">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="Microsoft SQL Server Badge">
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite Badge">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=fff&style=for-the-badge" alt="Cisco Badge">
   <img src="https://img.shields.io/badge/Integromat-2F8CBB?logo=integromat&logoColor=fff&style=for-the-badge" alt="Integromat Badge">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge">
