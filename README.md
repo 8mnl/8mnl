@@ -14,9 +14,9 @@ void me(void)
 ---
 
 <p align=center>
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" alt="C Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
   <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask Badge">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat" alt="FastAPI Badge">
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge" alt="GNU Bash Badge">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge" alt="PowerShell Badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
