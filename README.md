@@ -34,4 +34,5 @@ void me(void)
   <img src="https://img.shields.io/badge/Integromat-2F8CBB?logo=integromat&logoColor=fff&style=for-the-badge" alt="Integromat Badge">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/Traefik%20Proxy-24A1C1?logo=traefikproxy&logoColor=fff&style=for-the-badge" alt="Traefik Proxy Badge">
 </p>
