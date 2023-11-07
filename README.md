@@ -3,7 +3,7 @@
 ```c
 void me(void)
 {
-  printf("hi 👋, you can call me manuel. \n");
+  printf("hi 👋 \n");
   printf("i'm a passionate tech enthusiast from germany. \n");
   char askMeAbout[] = "python, gnu/linux, docker, servers & networks";
   char interestedIn[] = "open source, automation, osint, self-hosting"; 
