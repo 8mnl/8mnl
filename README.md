@@ -1,14 +1,15 @@
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220">
 
 ```c
-void me(void)
-{
-  printf("hi 👋 \n");
-  printf("i'm a passionate tech enthusiast from germany. \n");
-  char askMeAbout[] = "gnu/linux, docker, rest(ful), servers & networks";
-  char interestedIn[] = "open source, automation, osint, self-hosting"; 
-  char currentlyLearning[] = "js, c# / .net";
-}
+const aboutMe = () => {
+  console.log(`hi 👋\n i'm a passionate tech enthusiast from germany.`);
+  const askMeAbout = ['gnu/linux', 'docker', 'servers \& networks'];
+  const interestedIn = ['open source', 'containerization', 'webdev', 'self-hosting']; 
+  const currentlyLearning = {
+    webdev: 'js, nextjs'
+    desktop: 'c# / dotNet'
+    };
+};
 ```
 
 ---
