@@ -1,6 +1,6 @@
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220">
 
-```c
+```JavaScript
 const aboutMe = () => {
   console.log(`hi 👋\n i'm a passionate tech enthusiast from germany.`);
   const askMeAbout = ['gnu/linux', 'docker', 'servers \& networks'];
