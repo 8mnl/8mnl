@@ -7,7 +7,7 @@ const aboutMe = () => {
   const interestedIn = ['open source', 'containerization', 'webdev', 'self-hosting']; 
   const currentlyLearning = {
     webdev: 'js, nextjs'
-    desktop: 'c# / dotNet'
+    desktop: 'c# / .net'
     };
 };
 ```
