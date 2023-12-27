@@ -6,7 +6,7 @@ const aboutMe = () => {
   const askMeAbout = ['gnu/linux', 'docker', 'servers \& networks'];
   const interestedIn = ['open source', 'containerization', 'webdev', 'self-hosting']; 
   const currentlyLearning = {
-    webdev: 'js, nextjs'
+    webdev: 'fullstack; js/ts, nextjs'
     desktop: 'c# / .net'
     };
 };
