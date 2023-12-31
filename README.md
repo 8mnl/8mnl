@@ -4,9 +4,9 @@
 const aboutMe = () => {
   console.log(`hi 👋\n i'm a passionate tech enthusiast from germany.`);
   const askMeAbout = ['gnu/linux', 'docker', 'servers \& networks'];
-  const interestedIn = ['open source', 'containerization', 'webdev', 'self-hosting']; 
+  const interestedIn = ['open source', 'containerization', 'webdev', 'selfhosting']; 
   const currentlyLearning = {
-    webdev: 'fullstack; js/ts, nextjs'
+    webdev: 'js/ts, nextjs'
     desktop: 'c# / .net'
     };
 };
